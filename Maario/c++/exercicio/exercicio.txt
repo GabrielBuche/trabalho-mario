@@ -1,0 +1,29 @@
+Atividade 04: Exploração de linguagens
+
+Linguagem A: C#
+Linguagem B: C++
+
+
+Atividades exploratórias:
+
+Escrevem o famoso programa “hello, world”.
+
+Executem o programa na sua máquina.
+
+Resolvam as questões #1 e #2 do Project Euler.
+
+
+Respondam as perguntas:
+
+Como é o ambiente da linguagem?
+R: achei o ambiente da linguagem bancana e relativamente simples
+
+Como foi a instalação do ambiente? (compilador, interpretador, site)
+R: facil relativamente tranquilo quando se comparado a instlação do c# 
+que leva um pouco mais de tempo.
+
+Qual foi o seu sentimento em relação a linguagem para escrever o programa?
+R: uma linguagem de facil apredizagem e que tem muito potencial principalmente 
+para desempenho de aplição e que pode ser muito util aprender pq pé uma linguaagem 
+que considero importante para se ter conhecimento
+

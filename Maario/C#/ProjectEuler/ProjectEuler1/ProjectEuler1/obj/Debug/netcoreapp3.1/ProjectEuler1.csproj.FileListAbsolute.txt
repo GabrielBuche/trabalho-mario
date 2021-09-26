@@ -1,0 +1,14 @@
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\bin\Debug\netcoreapp3.1\ProjectEuler1.exe
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\bin\Debug\netcoreapp3.1\ProjectEuler1.deps.json
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\bin\Debug\netcoreapp3.1\ProjectEuler1.runtimeconfig.json
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\bin\Debug\netcoreapp3.1\ProjectEuler1.runtimeconfig.dev.json
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\bin\Debug\netcoreapp3.1\ProjectEuler1.dll
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\bin\Debug\netcoreapp3.1\ProjectEuler1.pdb
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.csproj.AssemblyReference.cache
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.AssemblyInfoInputs.cache
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.AssemblyInfo.cs
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.csproj.CoreCompileInputs.cache
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.dll
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.pdb
+C:\Users\Buche\Documents\unifil\Travaalhos\Maario\C#\ProjectEuler\ProjectEuler1\ProjectEuler1\obj\Debug\netcoreapp3.1\ProjectEuler1.genruntimeconfig.cache
